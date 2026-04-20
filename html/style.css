@@ -1,0 +1,19 @@
+*{
+    font-family: Georgia;
+}
+button{
+    background-color: blueviolet;
+    color:white;
+}
+button:hover{
+    background-color: red;
+    color:whitesmoke;
+}
+input::placeholder{
+    background-color: rgb(0, 255, 115);
+    opacity:1;
+}
+input[type="text"]{
+    color:white;
+    background-color: red;
+}
