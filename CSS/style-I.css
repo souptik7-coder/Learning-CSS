@@ -21,3 +21,15 @@ p{
 h1{
     text-decoration: underline;
 }
+button{
+    background-color: red;
+    color:whitesmoke;
+}
+button:hover{
+    background-color: rgb(86, 3, 86);
+    color:whitesmoke
+}
+textarea{
+    background-color: blueviolet;
+    color:white;
+}
