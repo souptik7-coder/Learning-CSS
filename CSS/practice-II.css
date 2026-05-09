@@ -26,4 +26,5 @@ h1::first-letter{
 }
 #yes:checked+label{
     color:darkgreen;
+    font-weight: bold;
 }

@@ -1,0 +1,19 @@
+h2{
+    color:rgb(23, 34, 1);
+}
+div{
+    background-color: yellow;
+}
+form{
+    background-color: red;
+}
+p{
+    color:rgb(47, 0, 255);
+}
+h1{
+    color:brown;
+    text-decoration: underline;
+}
+input{
+    background-color: inherit;
+}

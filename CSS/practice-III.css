@@ -1,0 +1,31 @@
+h1{
+    color:rgb(38, 2, 2);
+    text-align: center;
+}
+.userbtn{
+    background-color: blueviolet;
+    color:white;
+}
+.userbtn:hover{
+    background-color: brown;
+    color:whitesmoke;
+}
+.searchbtn{
+    background-color: cadetblue;
+    color:whitesmoke;
+}
+.searchbtn:hover{
+    background-color: brown;
+    color:aqua;
+}
+#search{
+    background-color: chocolate;
+    color:black;
+}
+#search::placeholder{
+    opacity: 0.6;
+    color:black;
+}
+*{
+    text-align: center;
+}
