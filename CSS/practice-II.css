@@ -1,0 +1,29 @@
+#heading{
+    color:blue;
+    font-family: Georgia;
+}
+*{
+    text-align: center;
+}
+.para{
+    background-color:  cornflowerblue;
+    color: white;
+}
+button{
+    background-color: rgb(217, 13, 58);
+    color:whitesmoke;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: blue;
+    color:aliceblue;
+}
+p:nth-of-type(2n+1){
+    color: yellow;
+}
+h1::first-letter{
+    color:red;
+}
+#yes:checked+label{
+    color:darkgreen;
+}
