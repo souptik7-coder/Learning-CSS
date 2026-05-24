@@ -1,0 +1,24 @@
+.div1{
+    border:2px solid black;
+    height:200px;
+    width:800px;
+    background-color: red;
+    color:white;
+}
+.div2{
+    height: 200px;
+    width:800px;
+    margin-top:20px;
+    border:2px solid black;
+    color:antiquewhite;
+    background-color: blueviolet;
+}
+button{
+    margin-top:20px;
+    color:white;
+    background-color: rgb(0, 255, 55);
+}
+button:hover{
+    background-color: brown;
+    color:antiquewhite;
+}
