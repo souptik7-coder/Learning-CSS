@@ -10,7 +10,7 @@
     display: none;
 } */
 
-h1{
+/* h1{
     border:2px solid black;
     width:50%;
 }
@@ -25,8 +25,17 @@ h1{
 }
 #inner{
     height: 100px;
-    width:150px;
+    width: 150px;
     background-color: aqua;
-    margin:10%;
+    margin: 10%;
     font-size: 2em;
+    padding: 1em;
+} */
+
+
+section{
+    font-size:25px;
+}
+div{
+    font-size: 2rem;
 }
