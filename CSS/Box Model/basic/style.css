@@ -1,0 +1,32 @@
+/* div{
+    height:200px;
+    width:200px;
+    background-color: yellow;
+    border:2px solid black;
+    margin:5px ;
+    display: inline-block;
+}
+#third{
+    display: none;
+} */
+
+h1{
+    border:2px solid black;
+    width:50%;
+}
+#outer{
+    height:400px;
+    width:400px;
+    background-color: green;
+    margin:50px;
+    text-align: center;
+    color:white;
+    font-size: 20px;
+}
+#inner{
+    height: 100px;
+    width:200px;
+    background-color: aqua;
+    margin:10%;
+    font-size: 2em;
+}
