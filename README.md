@@ -4,3 +4,6 @@
 # inheritance in CSS
 # Box Model
 # Flexbox & Grid
+# Animation
+# Media Quries
+# z-Index
