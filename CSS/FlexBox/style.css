@@ -4,9 +4,15 @@
     background-color:  azure;
     margin : 10px auto;
     border : 2px solid black;
+    display :flex;
+    flex-direction : row;
+    justify-content: flex-start;
+    flex-wrap: nowrap;  
+
 }
 h1 {
     text-align: center;
+    color:red;
 }
 
 #container div {
