@@ -1,0 +1,36 @@
+.box {
+    height: 100px;
+    width : 300px;
+    background-color: pink;
+    animation: colors 3s ease-in 0s infinite alternate-reverse;
+}
+
+@keyframes souptik {
+    from {font-size: 20px;}
+    to {font-size: 40px;}
+}
+
+@keyframes widthframe {
+    from {width: 100px;}
+    to {width: 400px;}
+}
+
+@keyframes color {
+    from {background-color: blue;}
+    to {background-color: brown;}
+}
+
+@keyframes colors {
+    0% {
+        background-color: green;
+    } 
+    50% {
+        background-color: yellow;
+    } 
+    80% {
+        background-color: red;
+    }
+    100% {
+        background-color: blue;
+    }
+}
